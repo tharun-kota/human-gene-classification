@@ -1,1 +1,1 @@
-# human-gene-classification
+# binary classification
